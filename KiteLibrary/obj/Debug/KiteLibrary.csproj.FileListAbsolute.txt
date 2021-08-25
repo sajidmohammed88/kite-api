@@ -1,0 +1,9 @@
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteLibrary\bin\Debug\KiteLibrary.dll
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteLibrary\bin\Debug\KiteLibrary.pdb
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteLibrary\obj\Debug\KiteLibrary.csproj.AssemblyReference.cache
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteLibrary\obj\Debug\KiteLibrary.csproj.CoreCompileInputs.cache
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteLibrary\obj\Debug\KiteLibrary.csproj.CopyComplete
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteLibrary\obj\Debug\KiteLibrary.dll
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteLibrary\obj\Debug\KiteLibrary.pdb

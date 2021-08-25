@@ -1,0 +1,12 @@
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\bin\Debug\KiteConsole.exe.config
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\bin\Debug\KiteConsole.exe
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\bin\Debug\KiteConsole.pdb
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\bin\Debug\KiteLibrary.dll
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\bin\Debug\Newtonsoft.Json.dll
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\bin\Debug\KiteLibrary.pdb
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\bin\Debug\Newtonsoft.Json.xml
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\obj\Debug\KiteConsole.csproj.AssemblyReference.cache
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\obj\Debug\KiteConsole.csproj.CoreCompileInputs.cache
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\obj\Debug\KiteConsole.csproj.CopyComplete
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\obj\Debug\KiteConsole.exe
+C:\1-Git\1-TfsProjects\DotNetFramework\kite-api\KiteConsole\obj\Debug\KiteConsole.pdb

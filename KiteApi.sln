@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiteLibrary", "KiteLibrary\KiteLibrary.csproj", "{F1858239-11C3-4031-87F0-1E59600CD87E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiteConsole", "KiteConsole\KiteConsole.csproj", "{B03CC1D1-3969-4D80-BD5E-E052F05ADA7A}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1858239-11C3-4031-87F0-1E59600CD87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1858239-11C3-4031-87F0-1E59600CD87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1858239-11C3-4031-87F0-1E59600CD87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1858239-11C3-4031-87F0-1E59600CD87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03CC1D1-3969-4D80-BD5E-E052F05ADA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03CC1D1-3969-4D80-BD5E-E052F05ADA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03CC1D1-3969-4D80-BD5E-E052F05ADA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03CC1D1-3969-4D80-BD5E-E052F05ADA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
