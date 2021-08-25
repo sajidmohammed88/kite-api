@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/KiteApi/v16
+/packages/Newtonsoft.Json.13.0.1
+/KiteLibrary/KiteLibrary.csproj.user
+/KiteConsole/KiteConsole.csproj.user
