@@ -14,7 +14,7 @@ namespace KiteConsole
             {
                 ApiKey = "eguog2vt2umybd0p",
                 UserId = "TV7485",
-                Password = "Alpha123",
+                Password = "******",
                 Pin = "123456",
                 ApiSecret = "ym51tkbb2rbos0rqyui3c1abewdps81q"
             });
